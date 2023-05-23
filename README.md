@@ -6,6 +6,7 @@ Repo for UC Berkeley Data Analytics Bootcamp
 The SQL script contains six CSV files with employee information. The databases have data from the 1980s and 1990s.
 
 Data Modeling
+
 EmployeeDepartment.png demonstrates the relationships between employees, departments, employees in these departments, departments, employees in each department and the department managers, and the relationship with employees and their title and salaries.
 
 Data Engineering
